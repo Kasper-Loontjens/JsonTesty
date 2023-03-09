@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Helloooooo");
 
-        JSONObjects jsonOb = new JSONObject();
+        JSONObject jsonOb = new JSONObject();
 
         jsonOb.put("namn", "marcus");
         jsonOb.put("age", 34);

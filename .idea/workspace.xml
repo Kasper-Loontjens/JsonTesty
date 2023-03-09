@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60904fe-1953-406d-8acb-cec86d0bcdb4" name="Changes" comment="comment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonTesty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JsonTesty.iml" afterDir="false" />
+    <list default="true" id="b60904fe-1953-406d-8acb-cec86d0bcdb4" name="Changes" comment="Skapa Json">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678353088237</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Skapa Json">
+      <created>1678354044814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678354044814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment" />
+    <MESSAGE value="Skapa Json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skapa Json" />
   </component>
 </project>
